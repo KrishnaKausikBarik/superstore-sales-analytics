@@ -1,6 +1,5 @@
 # Sales Performance Dashboard
-
-![Sales Dashboard Mockup](Screenshot 2026-09-25 125757.png)
+![Sales Dashboard Mockup](Screenshot%202026-09-25%20125757.png)
 
 ## Project Overview
 This repository contains a focused view of a Sales Dashboard built in Tableau. The dashboard provides an interactive overview of sales performance and customer categorization to help stakeholders make data-driven decisions.
